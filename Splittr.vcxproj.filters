@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\crackCreation.cpp" />
+    <ClCompile Include="src\CrackStarter.cpp" />
+    <ClCompile Include="src\graphics.cpp" />
+    <ClCompile Include="src\holes.cpp" />
+    <ClCompile Include="src\Point.cpp" />
+    <ClCompile Include="src\room.cpp" />
+    <ClCompile Include="src\splitter.cpp" />
+    <ClCompile Include="src\tesselate.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\crackCreation.h" />
+    <ClInclude Include="src\CrackStarter.h" />
+    <ClInclude Include="src\graphics.h" />
+    <ClInclude Include="src\holes.h" />
+    <ClInclude Include="src\Point.h" />
+    <ClInclude Include="src\room.h" />
+    <ClInclude Include="src\tesselate.h" />
+  </ItemGroup>
+</Project>
